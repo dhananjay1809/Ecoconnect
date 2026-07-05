@@ -1,0 +1,8 @@
+CLOTHREUSE REPORT
+=========================
+name: sahil
+description: tshirt
+location: Lat: 21.1318, Lng: 79.1062
+image: 1760679824889-Snapchat-1985549657~2.jpg
+SavedAt: 17/10/2025, 11:13:44 am
+=========================

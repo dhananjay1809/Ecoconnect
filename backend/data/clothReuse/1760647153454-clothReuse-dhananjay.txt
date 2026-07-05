@@ -1,0 +1,8 @@
+CLOTHREUSE REPORT
+=========================
+name: dhananjay
+description: tshirt
+location: Lat: 21.1019, Lng: 79.0736
+image: 
+SavedAt: 17/10/2025, 2:09:13 am
+=========================
